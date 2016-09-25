@@ -1,0 +1,24 @@
+---
+spring:
+  profiles: LAB-4-SUBJECT
+words: I,You,He,She,It
+
+---
+spring:
+  profiles: LAB-4-VERB
+words: ran,knew,had,saw,bought
+
+---
+spring:
+  profiles: LAB-4-ARTICLE
+words: a,the
+
+---
+spring:
+  profiles: LAB-4-ADJECTIVE
+words: reasonable,leaky,suspicious,ordinary,unlikely
+
+---
+spring:
+  profiles: LAB-4-NOUN
+words: boat,book,vote,seat,backpack,partition,groundhog
