@@ -1,0 +1,2 @@
+# EurekaConfig
+Eureka Config Server
