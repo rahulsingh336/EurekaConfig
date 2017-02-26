@@ -9,7 +9,7 @@ server:
 
 ---
 spring:
-  profiles: subject
+  profiles: LAB-4-SUBJECT
 words: I,You,He,She,It
 
 ---
