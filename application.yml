@@ -14,7 +14,7 @@ words: I,You,He,She,It
 
 ---
 spring:
-  profiles: verb
+  profiles: LAB-4-NOUN
 words: ran,knew,had,saw,bought
 
 ---
