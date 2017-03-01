@@ -15,8 +15,8 @@ spring:
   profiles: sentence
   application:
     name: sentence
-  server:
-    port: 8020
+  #server:
+   # port: 8020
   
 ---
 spring:
