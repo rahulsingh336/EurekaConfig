@@ -13,6 +13,8 @@ server:
 ---
 spring:
   profiles: subject
+  application:
+    name: subject
 words: I,You,He,She,It
 
 ---
@@ -33,4 +35,6 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: noun
+  application:
+    name: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
