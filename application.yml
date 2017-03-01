@@ -12,7 +12,7 @@ server:
 
 ---
 spring:
-  profiles: LAB-4-SUBJECT
+  profiles: subject
 words: I,You,He,She,It
 
 ---
